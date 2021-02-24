@@ -1,0 +1,17 @@
+Group,Accession,Release_Date,Species,Length,Geo_Location,Host,Collection_Date
+Bat coronavirus,KF636752,2014-10-01T00:00:00Z,Bat Hp-betacoronavirus Zhejiang2013,31491,China,Hipposideros pratti,4/29/2013
+Bat coronavirus,NC_025217,2014-10-03T00:00:00Z,Bat Hp-betacoronavirus Zhejiang2013,31491,China,Hipposideros pratti,4/29/2013
+Bat coronavirus,KJ473822,2015-12-31T00:00:00Z,Tylonycteris bat coronavirus HKU4,30247,China,Tylonycteris pachypus,2012
+Pangolin,MT121216,2020-05-18T00:00:00Z,Pangolin coronavirus,29521,China,Manis javanica,3/29/2019
+Pangolin,MT072864,2020-04-01T00:00:00Z,Pangolin coronavirus,29795,China,Pholidota,2018
+Pangolin,MT040336,2020-04-01T00:00:00Z,Pangolin coronavirus,29802,China,Manis javanica,2017
+Reference Human SARS-COV2,NC_045512,2020-01-13T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29903,China,Homo sapiens,2019-12
+Human SARS-COV3,MT412339,2020-10-31T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29867,China,Homo sapiens,2/24/2020
+Human SARS-COV4,MT291827,2020-04-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29858,China: Wuhan,Homo sapiens,12/30/2019
+Human SARS-COV5,MT291831,2020-04-06T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29872,China: Beijing,Homo sapiens,1/24/2020
+MERS,KT121572,2015-11-17T00:00:00Z,Middle East respiratory syndrome-related coronavirus,29896,Saudi Arabia,Homo sapiens,5/12/2014
+MERS,KT121573,2015-11-17T00:00:00Z,Middle East respiratory syndrome-related coronavirus,29896,Saudi Arabia,Homo sapiens,5/9/2014
+MERS,KT121574,2015-11-17T00:00:00Z,Middle East respiratory syndrome-related coronavirus,29896,Saudi Arabia,Homo sapiens,5/7/2014
+SARS,AY274119,2003-04-14T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29751,Canada: Toronto,Homo sapiens,
+SARS,DQ640652,2006-06-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29746,China,Homo sapiens,
+SARS,FJ882963,2009-05-12T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29682,USA,Homo sapiens,8/10/2004
